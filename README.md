@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**lilianajv/lilianajv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div id="header" align="center">
   <img src="https://github.com/lilianajv/Practico/blob/main/imagen%20github.jpg" width="800"/>
 
